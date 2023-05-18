@@ -28,6 +28,6 @@ main.children[1].children[3].children[0].src = "../IMG/evil.jpg";
 
 main.children[1].children[0].children[1].textContent = "Gato con Botas";
 main.children[1].children[1].children[1].textContent = "La Ballena";
-main.children[1].children[2].children[1].textContent = "Evil Dead Raise";
-main.children[1].children[3].children[1].textContent = "Academia de Conejos";
+main.children[1].children[2].children[1].textContent = "Academia de Conejos";
+main.children[1].children[3].children[1].textContent = "Evil Dead Raise";
 
